@@ -3,7 +3,7 @@
 A mod for The Long Dark that allows to respawn infinitely.
 # Overview
 A simple mod that allows infinite respawning.
-Each time you respawn, your lfe count will be set back to 3, allowing respawning infinitely.
+Each time you respawn, your life count will be set back to 3, allowing respawning infinitely.
 
 Keep in mind that this mod does not reduce or remove the respawn penalties, so you still have to be careful!
 # Installation
